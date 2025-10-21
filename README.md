@@ -1,4 +1,3 @@
 # calculator
-this is my first git Repository.
-<br>
-name-Dinesh Kushwaha
+this is my first git Repository.<br>
+in this repo i created a calculator
